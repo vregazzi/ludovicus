@@ -1,0 +1,9 @@
+*.log
+*.gz
+*.pdf
+*.gtex
+*.glog
+*.aux
+*.gaux
+*.synctex*
+.DS_Store
